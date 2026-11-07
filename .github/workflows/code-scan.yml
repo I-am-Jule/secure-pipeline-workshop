@@ -97,6 +97,7 @@ jobs:
           fi
 
 
+
   # 🚧 REPLACE THE JOB SECTION WITH WORKSHOP CONTENT! 🚧
   # Copy from: workshop/code_scan/sca/{tool}/workflow.yml
   sca-scan:
